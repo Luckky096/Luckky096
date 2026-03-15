@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# Opa, eu sou o Luckky, ou Ls, como você preferir.
+- Sou estudande de desenvolvimento de sistemas.
+- Focado em Python, HTML e CSS
+- Estou em preparamento para o mercado de tecnologia.
+  
 <!--
 **Luckky096/Luckky096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
