@@ -1,8 +1,24 @@
-# Opa, eu sou o Luckky, ou Ls, como você preferir.
-- Sou estudande de desenvolvimento de sistemas.
-- Focado em Python, HTML e CSS
-- Estou em preparamento para o mercado de tecnologia.
+# 👋 Opa, eu sou o Lucas, ou Ls, como você preferir!
+
+## 👾 Quem sou eu?
+- 🖥️ Sou estudande de desenvolvimento de sistemas.
+- 🧩 Focado em Python, HTML e CSS.
+- ✨Estou altamente disposto e interessado em programação front-ending e projetos web.
+
+  ## 🎓 O que eu estudo?
+  <div style="display:inline_block"><br>
   
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+     <div/>
+
+  ## 📫 Entre em contato!
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sandrinlucas57@gmail.com)
+               
+
 <!--
 **Luckky096/Luckky096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
