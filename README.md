@@ -15,9 +15,6 @@
 
      <div/>
 
-  ## 📫 Entre em contato!
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sandrinlucas57@gmail.com)
-
 *"👑 vivendo entre linhas de código e linhas de diálogo!"*
                
 
